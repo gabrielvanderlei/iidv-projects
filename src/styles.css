@@ -1,0 +1,23 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.space-3{
+  padding: 30px;
+}
+
+.full-graph{
+  padding: 50px;
+}
+
+.fill-remaining-space{
+  flex: 1 1 auto;
+}
+
+mat-toolbar.mat-toolbar.mat-toolbar-single-row {
+    background: rgb(32, 47, 181);
+    color: white;
+}
